@@ -4,9 +4,7 @@
 
  ##
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusMiasaki&show_icons=true&count_private=true&hide_border=true&title_color=33ff00&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Miasaki github stats" /> 
-</div>
+
 
 
 
@@ -19,16 +17,12 @@
 
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusMiasaki}/count.svg" /></p> 
-<br>
-</div>
 
 
 
 
-## Linguagens:
+##
+   Linguagens:
 <br/>
 
 <div style="display: inline_block">
@@ -43,6 +37,7 @@
 
 ##
  Atualmente cursando 1º ano de Sistemas para Internet IFSP <br/>
+ Tec. em Desenvolvimento de Sistemas-ETEC
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33ff00&height=120&section=footer"/>
